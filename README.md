@@ -1,4 +1,4 @@
-# Delicious Eats Restaurant Website
+
 
 A modern, responsive website template for a local restaurant. 
 
