@@ -45,4 +45,4 @@ restaurant-website/
 
 ## License
 
-Feel free to use and modify for your restaurant!
+
