@@ -1,1 +1,88 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Eats | Menu</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Delicious Eats</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html" class="active">Menu</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="menu-section">
+            <h2>Our Menu</h2>
+            <div class="menu-category">
+                <h3>Starters</h3>
+                <ul>
+                    <li>
+                        <span>Garlic Bread</span>
+                        <span class="menu-price">$5</span>
+                    </li>
+                    <li>
+                        <span>Bruschetta</span>
+                        <span class="menu-price">$6</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu-category">
+                <h3>Main Courses</h3>
+                <ul>
+                    <li>
+                        <span>Grilled Salmon</span>
+                        <span class="menu-price">$18</span>
+                    </li>
+                    <li>
+                        <span>Classic Burger</span>
+                        <span class="menu-price">$12</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu-category">
+                <h3>Desserts</h3>
+                <ul>
+                    <li>
+                        <span>Chocolate Lava Cake</span>
+                        <span class="menu-price">$7</span>
+                    </li>
+                    <li>
+                        <span>Cheesecake</span>
+                        <span class="menu-price">$6</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu-category">
+                <h3>Drinks</h3>
+                <ul>
+                    <li>
+                        <span>Lemonade</span>
+                        <span class="menu-price">$3</span>
+                    </li>
+                    <li>
+                        <span>Fresh Brewed Coffee</span>
+                        <span class="menu-price">$2</span>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Delicious Eats | Follow us:
+            <a href="#">Instagram</a> |
+            <a href="#">Facebook</a> |
+            <a href="#">Twitter</a>
+        </p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
